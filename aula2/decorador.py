@@ -6,15 +6,18 @@ def grava_arquivo():
         file.write("email enviado " + data)
 
 def verifica(function):
-    def wrapper(end):
+    def wrapper():
         grava_arquivo()
-        function(end)
+        function()
     return wrapper
+
+def imprime_ola():
+    print("Olá mundo")
 
 @verifica
 def envia_email(endereco):
     print(f"email enviado para {endereco}")
 
 if __name__ == "__main__":
-    envia_email('engels@gmail.com')
+    verifica(imprime_ola())
 

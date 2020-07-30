@@ -1,0 +1,1 @@
+NOME = "minha loja"

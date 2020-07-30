@@ -8,3 +8,4 @@ Básico sobre Python
 ###Aula 2 - Parte 1
 - Funções
 - Decoradores
+- Object (Python data model)
