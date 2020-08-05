@@ -20,3 +20,13 @@ Básico sobre Python
 - Hello World com Flask
 - Básico sobre debug
 ->export FLASK_ENV=development; Utilizando o PIN; flask routes; flask shell
+
+###Aula 4 Pt1
+- Factory pattern (Criação de uma função principal que pode
+ser chamada em modo lazy, ou seja, podemos especificar a sua ordem de execução;
+Será modularizar nossa aplicação de forma a ir montando as extensões por etapas).
+- Contextos (Explicando a ordem em que as partes da aplicação devem ser configuradas
+e executadas).
+
+### Aula 4 Pt2
+- Configurando a estrutura para iniciar o desenvolvimento da aplicação
