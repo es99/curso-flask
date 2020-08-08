@@ -28,5 +28,9 @@ Será modularizar nossa aplicação de forma a ir montando as extensões por eta
 - Contextos (Explicando a ordem em que as partes da aplicação devem ser configuradas
 e executadas).
 
-### Aula 4 Pt2
+###Aula 4 Pt2
 - Configurando a estrutura para iniciar o desenvolvimento da aplicação
+
+###Aula 5
+FLASK_APP=delivery/app.py -> Indica o local ao Flask onde a aplicação está localizada.
+Tornando a aplicação instalável.
