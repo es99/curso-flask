@@ -34,3 +34,5 @@ e executadas).
 ###Aula 5
 FLASK_APP=delivery/app.py -> Indica o local ao Flask onde a aplicação está localizada.
 Tornando a aplicação instalável.
+Parte 2: Finalizando a estrutura da aplicação com criação dos diretórios das extensõe;
+Construção do primeiro template, básico de Jinja e criação de um template básico.
