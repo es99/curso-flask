@@ -27,12 +27,17 @@ ser chamada em modo lazy, ou seja, podemos especificar a sua ordem de execução
 Será modularizar nossa aplicação de forma a ir montando as extensões por etapas).
 - Contextos (Explicando a ordem em que as partes da aplicação devem ser configuradas
 e executadas).
+- Estudar: Factory patterns
 
 ###Aula 4 Pt2
 - Configurando a estrutura para iniciar o desenvolvimento da aplicação
+- Estudar: TDD Pytest (Testes com python); Setup-Tools (Criar uma aplicação instalável), fazer com
+que o Python insira a aplicação "delivery.app" no syspath do mesmo.
 
 ###Aula 5
 FLASK_APP=delivery/app.py -> Indica o local ao Flask onde a aplicação está localizada.
 Tornando a aplicação instalável.
-Parte 2: Finalizando a estrutura da aplicação com criação dos diretórios das extensõe;
+Parte 2: Finalizando a estrutura da aplicação com criação dos diretórios das extensões;
 Construção do primeiro template, básico de Jinja e criação de um template básico.
+
+###Aula 6
