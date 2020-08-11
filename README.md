@@ -35,9 +35,23 @@ e executadas).
 que o Python insira a aplicação "delivery.app" no syspath do mesmo.
 
 ###Aula 5
-FLASK_APP=delivery/app.py -> Indica o local ao Flask onde a aplicação está localizada.
+- FLASK_APP=delivery/app.py -> Indica o local ao Flask onde a aplicação está localizada.
 Tornando a aplicação instalável.
 Parte 2: Finalizando a estrutura da aplicação com criação dos diretórios das extensões;
 Construção do primeiro template, básico de Jinja e criação de um template básico.
 
 ###Aula 6
+- CI -> Continuous Integrations através dos templates actions do github, fazendo com que cada commit
+passe por um teste antes de ser publicado.
+Estudar: CI, Git e GitHub, linguagem Markdown.
+- Usar o notion
+- Dicas: diariamente abrir um arquivo markdown em branco com a data atual e ir anotando coisas
+que foram feitas. No início do outro dia, relembrar o que foi feito e ir passando para o Notion.
+- Dicas 2: Aprender docker, contribuir em projetos open-source no github, focar em uma tecnologia, 
+fazes pequenos projetos e postar no github.
+- Templates -> render templates e Jinja
+#### Parte2
+* Jinja: funcionamento das macros
+* DebugToolbar
+* Config extension (para tirar parâmetros de configuração do app principal)
+* git checkout -b start_template -> Inicio de uma nova branch

@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{%  import "macros/cards.html" as cards %}
+{% import "macros/cards.html" as cards %}
 
 {% block top %}
     <h1 class="title">Hero Title</h1>
@@ -9,6 +9,6 @@
 
 {% block main %}
 <div class="columns">
-    {{ cards.cards([1, 2, 3, 4]) }}
+  {{ cards.cards([1, 2, 3, 4]) }}
 </div>
 {% endblock main %}
