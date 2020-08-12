@@ -55,3 +55,24 @@ fazes pequenos projetos e postar no github.
 * DebugToolbar
 * Config extension (para tirar parâmetros de configuração do app principal)
 * git checkout -b start_template -> Inicio de uma nova branch
+
+###Aula 7
+- SGBD (Sistema Gerenciador de Banco de Dados)
+    * Access // Excel
+    * MySQL / MariaDB
+    * PostgreSQL
+    * SQL Server MS
+    * Oracle
+    * SQLite <-- // Mais utilizado devido ao Android.
+- Consultas estruturais
+    * CREATE TABLE
+    * ALTER TABLE
+    * DROP TABLE
+- Consultas de dados (CRUD)
+    * Create -> INSERT INTO nome VALUE (...)
+    * Read -> SELECT campo from ...
+    * Update -> UPDATE nome SET .. where...
+    * Delete -> DELETE from...
+- ORM - Object Relational Mapping (Flask Sql Alchemy)
+- [Vertabelo](https://vertabelo.com) para modelagem de Banco de Dados
+- Instalação do SQLAlchemy
