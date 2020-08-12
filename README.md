@@ -76,3 +76,11 @@ fazes pequenos projetos e postar no github.
 - ORM - Object Relational Mapping (Flask Sql Alchemy)
 - [Vertabelo](https://vertabelo.com) para modelagem de Banco de Dados
 - Instalação do SQLAlchemy
+    * Criação das modelos a partir do arquivo .xml
+    * Criação da função init_app
+    * Criação de comandos através da extensios cli
+    * Criação do BD em sqlite
+    * Adição de usuários
+- Outras referências da aula:
+   - [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+    
